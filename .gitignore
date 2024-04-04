@@ -1,0 +1,7 @@
+__pycache__
+.idea
+env
+venv
+handlers/__pycache__
+Wasender/__pycache__
+

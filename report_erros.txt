@@ -1,0 +1,25 @@
+
+Telegram server says - Bad Request: file must be non-empty ----2024-02-23
+HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot6558578706:AAHPuPOO0oCRn8BtOZgDV50g97hsZ7mOnno/sendDocument ----2024-02-23
+Telegram server says - Bad Request: file must be non-empty ----2024-02-23
+HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot6558578706:AAHPuPOO0oCRn8BtOZgDV50g97hsZ7mOnno/sendDocument ----2024-02-23
+Telegram server says - Bad Request: file must be non-empty ----2024-02-26
+HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot6558578706:AAHPuPOO0oCRn8BtOZgDV50g97hsZ7mOnno/sendDocument ----2024-02-26
+Telegram server says - Bad Request: file must be non-empty ----2024-02-26
+HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot6558578706:AAHPuPOO0oCRn8BtOZgDV50g97hsZ7mOnno/sendDocument ----2024-02-26
+Telegram server says - Bad Request: file must be non-empty ----2024-02-26
+HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot6558578706:AAHPuPOO0oCRn8BtOZgDV50g97hsZ7mOnno/sendDocument ----2024-02-26
+Telegram server says - Bad Request: file must be non-empty ----2024-02-26
+HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot6558578706:AAHPuPOO0oCRn8BtOZgDV50g97hsZ7mOnno/sendDocument ----2024-02-26
+Telegram server says - Bad Request: file must be non-empty ----2024-02-28
+HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot6558578706:AAHPuPOO0oCRn8BtOZgDV50g97hsZ7mOnno/sendDocument ----2024-02-28
+Telegram server says - Bad Request: file must be non-empty ----2024-02-29
+HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot6558578706:AAHPuPOO0oCRn8BtOZgDV50g97hsZ7mOnno/sendDocument ----2024-02-29
+Telegram server says - Bad Request: file must be non-empty ----2024-02-29
+HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot6558578706:AAHPuPOO0oCRn8BtOZgDV50g97hsZ7mOnno/sendDocument ----2024-02-29
+Telegram server says - Bad Request: file must be non-empty ----2024-03-05
+HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot6558578706:AAHPuPOO0oCRn8BtOZgDV50g97hsZ7mOnno/sendDocument ----2024-03-05
+Telegram server says - Bad Request: file must be non-empty ----2024-03-15
+HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot6558578706:AAHPuPOO0oCRn8BtOZgDV50g97hsZ7mOnno/sendDocument ----2024-03-15
+Telegram server says - Bad Request: file must be non-empty ----2024-03-15
+HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot6558578706:AAHPuPOO0oCRn8BtOZgDV50g97hsZ7mOnno/sendDocument ----2024-03-15
